@@ -26,6 +26,8 @@ public class MortgageCalculator {
          * TODO 4: Home owners insurance
          * TODO 5: Private Mortgage Insurance (PMI)
          * TODO 6: Incorporate database to allow storage of multiple calculated mortgages
+         * TODO 7: Calculate both monthly and entire period interest on mortgage
+         * TODO 8: Total mortgage paid after of period
          * TODO : A Spring version of program once all add ons are done
          */
 
